@@ -23,14 +23,14 @@
 	- Self-interest: people choose to do the things that interest them
 	- Marginal decision making: people make choices in increments; looking at
 	  marginal costs and marginal benefits
-	- Optimization: people makes choices to maximize their utility
+	- Optimization: people make choices to maximize their utility
 
 # Quiz Question
 - A rational decision: results from the comparison of marginal benefit and
   marginal cost
 
 # Marginal Costs and Marginal Benefits
-- Decision rule: If *marginal costs* are less than *marginal benefits, don't do
+- Decision rule: If *marginal costs* are greater than *marginal benefits*, don't do
   it.
 - Marginal costs tend to rise
 - Marginal benefits tend to fall
