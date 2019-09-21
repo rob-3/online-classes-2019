@@ -1,3 +1,5 @@
+Connect
+-------
 # Market Equilibrium
 - Found at the intersection of the supply and demand curves
 - In competitive markets, the equilibrium price will be reached given time
@@ -36,3 +38,34 @@
 	- Prices fall and output falls
 	- Both suppliers and demanders pay
 	- Creates a deadweight loss
+
+Lecture
+-------
+- Neither sellers nor buyers set prices
+- Interaction sets prices
+- If prices are too high, then demand won't be enough for everyone to have
+  business
+- If prices are too low, then demand will be too high for suppliers to produce
+  enough
+- Thus, prices tend back toward equilibrium
+
+# Price Ceiling
+- Maximum legal price of a good or service
+- Prevents the market from reaching an equilibrium price
+- Creates a shortage
+- Example: housing
+
+# Price Floor
+- Minimum legal price of a good or service
+- Example: minimum wage
+- Creates surplus
+
+# Taxes
+
+## Tax on Suppliers
+- Quantity supplied decreases and listed prices increase (suppliers get less)
+- **Both suppliers and demanders pay!**
+
+## Tax on Demanders
+- Quantity demanded and list prices drop (price + tax increases)
+- **Both suppliers and demanders pay!**
