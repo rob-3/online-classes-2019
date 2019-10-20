@@ -34,10 +34,10 @@
 - Substitutes and Complements
 	- Substitutes: goods that can easily take each other's place
 		- Price hike in one will increase demand for the other
-		- Direct relationship
+		- Inverse relationship
 	- Complements: goods that are consumed together (PB and jelly)
 		- Price hike in one will reduce demand for the other
-		- Inverse relationship
+		- Direct relationship
 
 # Lecture
 - Market: any place/mechanism where buyers and sellers interact to trade goods, services,

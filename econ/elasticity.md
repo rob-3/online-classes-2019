@@ -3,7 +3,7 @@
 - Elasticity = %ΔQs/%ΔP (suppliers) or %ΔQd/%ΔP (demanders)
 
 ## Elasticity in Demand
-- Elasticity = percentage change in quantity/percentage change in price =>
+- Elasticity = percentage change in quantity/percentage change in price >=
   percentage
 - Either can be negative
 - Price elasticity of demand will always be negative!
